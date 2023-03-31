@@ -6,3 +6,12 @@ notebooks
 .DS_Store
 athens_urban_biodiversity.egg-info/
 __pycache__/
+*.aux
+*.bbl
+*.fls
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.synctex.gz
+*.tex
